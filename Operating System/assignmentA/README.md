@@ -1,4 +1,4 @@
-# utual exclusion
+# Mutual exclusion
 ## 자료구조 설명
 ##### Atomic_int와 peterson’s algorithm을 사용한 mutual exclusion
 ##### 동기화를 통해서 전역변수 critical_section_variable에 race condition 방지
